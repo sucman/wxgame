@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,123_png,1起势_jpg,2左右野马分鬃_jpg,3白鹤亮翅_jpg,1起势2_jpg,2左右野马分鬃2_jpg,3白鹤亮翅2_jpg,bgm_mp3,bgm2_mp3",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/123.jpg",
+			"type": "image",
+			"name": "123_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/1起势.jpg",
+			"type": "image",
+			"name": "1起势_jpg"
+		},
+		{
+			"url": "assets/2左右野马分鬃.jpg",
+			"type": "image",
+			"name": "2左右野马分鬃_jpg"
+		},
+		{
+			"url": "assets/3白鹤亮翅.jpg",
+			"type": "image",
+			"name": "3白鹤亮翅_jpg"
+		},
+		{
+			"url": "assets/1起势.jpg",
+			"type": "image",
+			"name": "1起势2_jpg"
+		},
+		{
+			"url": "assets/2左右野马分鬃.jpg",
+			"type": "image",
+			"name": "2左右野马分鬃2_jpg"
+		},
+		{
+			"url": "assets/3白鹤亮翅.jpg",
+			"type": "image",
+			"name": "3白鹤亮翅2_jpg"
+		},
+		{
+			"url": "assets/bgm.mp3",
+			"type": "sound",
+			"name": "bgm_mp3"
+		},
+		{
+			"name": "bgm2_mp3",
+			"type": "sound",
+			"url": "assets/bgm.mp3"
+		}
+	]
+}
